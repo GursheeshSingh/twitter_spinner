@@ -1,16 +1,11 @@
-# twitter_spinner
+# Twitter Spinner - Flutter
 
-Twitter Spinner
+Check out the blog [Here](https://medium.com/@singhgursheesh12/twitter-spinner-flutter-81ca13c0f00e)
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+![Goal]( screeenshots/2.gif "Goal")
 
-A few resources to get you started if this is your first Flutter project:
+![End Result]( screeenshots/1.gif "End Result")
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
