@@ -4,8 +4,8 @@ Check out the blog [Here](https://medium.com/@singhgursheesh12/twitter-spinner-f
 
 ## Screenshots
 
-![Goal]( screeenshots/2.gif "Goal")
+![Goal]( screenshots/2.gif "Goal")
 
-![End Result]( screeenshots/1.gif "End Result")
+![End Result]( screenshots/1.gif "End Result")
 
 
